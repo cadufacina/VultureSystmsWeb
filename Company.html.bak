@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Company</title>
+  </head>
+  <body>
+    <p style="text-align: center; margin-top: 4px;"><span style="font-family: Courier New,Courier,monospace;"><a
+          href="Index.html" title="Home" target="_top">Home</a> | <a href="Products.html"
+          title="Products" target="_top">Products</a> | <a href="Simulator.html"
+          title="Simulator" target="_top">Simulator</a> | <b>[Company]</b> | <a
+          href="Employees.html" title="Employees" target="_top">Employees</a> |
+        <a href="Network.html" title="Network" target="_top">Network</a></span><span
+        style="font-family: Courier New,Courier,monospace;"></span></p>
+    <p><span style="font-family: Courier New,Courier,monospace;"><br>
+      </span></p>
+    <div style="text-align: center;"><img src="VultureSystmsLogo.png" alt="Simulator"></div>
+    <div style="text-align: center;"><br>
+    </div>
+    <div style="text-align: center;"><br>
+    </div>
+    <div style="text-align: center;"><span style="font-family: Courier New,Courier,monospace;">Meet
+        the company<br>
+      </span></div>
+    <div style="text-align: center;"><br>
+    </div>
+    <div style="text-align: center;"><br>
+    </div>
+    <div style="text-align: center;"><span style="font-family: Courier New,Courier,monospace;"><br>
+      </span> </div>
+    <div style="text-align: center;">
+      <table style="width: 100%;" border="0">
+        <tbody>
+          <tr>
+            <td style="width: 5%; background-color: white;"><br>
+            </td>
+            <td style="background-color: white;">
+              <table style="width: 100%;" border="0">
+                <tbody>
+                  <tr>
+                    <td style="text-align: right;"><span style="font-family: Courier New,Courier,monospace;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        Our offices are located in the business center of
+                        California, with access to the major player in the
+                        technology. Here we decide the strategy, the products
+                        and the technology that will empower our customers to do
+                        more in the Matrix. <br>
+                        <br>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our executives and office
+                        personal works from here<br>
+                        <br>
+                        Do you want to grab a coffee and talk with our
+                        representatives? Feel free to stop by! <br>
+                      </span></td>
+                    <td><br>
+                    </td>
+                    <td style="width: 49%; background-color: white; text-align: left;"><a
+                        href="https://www.google.com/maps/place/One+California+Plaza,+300+S+Grand+Ave,+Los+Angeles,+CA+90071,+EUA/@34.0525591,-118.2515904,17.5z/data=%214m5%213m4%211s0x80c2c64cea0ed5b7:0x2d34168e1228d262%218m2%213d34.0523179%214d-118.2514745"
+                        title="Map" target="_top"><img src="One-California-Plaza.jpg"
+                          alt="OneCaliforniaPlaza"></a><br>
+                      <span style="font-family: Courier New,Courier,monospace;">One
+                        California Plaza</span></td>
+                  </tr>
+                  <tr>
+                    <td><br>
+                    </td>
+                    <td><br>
+                    </td>
+                    <td><br>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="width: 49%; background-color: white; text-align: right;"><a
+                        href="https://www.google.com/maps/place/Regus+-+California,+Palos+Verdes+-+Twin+Towers/@33.7710446,-118.3723372,18z/data=%214m12%211m6%213m5%211s0x80dd4b94e3c499e9:0x4b2e20d5f1caedd0%212sRegus+-+California,+Palos+Verdes+-+Twin+Towers%218m2%213d33.7708591%214d-118.3724989%213m4%211s0x80dd4b94e3c499e9:0x4b2e20d5f1caedd0%218m2%213d33.7708591%214d-118.3724989"
+                        title="Twin Towers" target="_top"><img src="datacenter01.jpg"
+                          alt="Datacenter" style="width: 453px; height: 339px;"></a><br>
+                      <span style="font-family: Courier New,Courier,monospace;">Twin
+                        Towers</span></td>
+                    <td><br>
+                    </td>
+                    <td style="text-align: left;"><span style="font-family: Courier New,Courier,monospace;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        The datacenter is located far from the heat of business
+                        center, in Rolling Hills Estates. Don't be fooled by the
+                        exterior, the main attraction happens in the
+                        subterranean compound where our main infrastructure
+                        resides.<br>
+                        <br>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Security and
+                        accessibility are the key factors to choose the Twin
+                        Towers as our datacenter site. Physical and cyber
+                        measures keeps any risk of an attack in our
+                        infrastructure and data at bay.<br>
+                        <br>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The developers and the
+                        operations team works from this site.<br>
+                      </span></td>
+                  </tr>
+                </tbody>
+              </table>
+            </td>
+            <td style="width: 5%; background-color: white;"><br>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+    </div>
+    <br>
+    <br>
+    <p style="text-align: center;"><span style="font-family: Courier New,Courier,monospace;">©
+        Copyright 1997-2020 Vulture Systms</span></p>
+  </body>
+</html>

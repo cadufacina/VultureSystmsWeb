@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Hardware</title>
+  </head>
+  <body>
+    <p style="text-align: center;"><span style="font-family: Courier New,Courier,monospace;">Home
+        | Hardware | Software | </span><a href="Simulator.html" title="Simulator"
+        target="_top"><span style="font-family: Courier New,Courier,monospace;">Simulator</span></a>&nbsp;
+      |&nbsp; <span style="font-family: Courier New,Courier,monospace;"><a href="https://www.google.com/maps/place/One+California+Plaza,+300+S+Grand+Ave,+Los+Angeles,+CA+90071,+EUA/@34.0525591,-118.2515904,17.5z/data=%214m5%213m4%211s0x80c2c64cea0ed5b7:0x2d34168e1228d262%218m2%213d34.0523179%214d-118.2514745"
+          title="Company" target="_top">Company</a> | <a href="Employees.html"
+          title="Employees" target="_top">Employees</a> | <a href="Network.html"
+          title="Network" target="_top">Network</a></span><span style="font-family: Courier New,Courier,monospace;"></span></p>
+    <p><span style="font-family: Courier New,Courier,monospace;"><br>
+      </span></p>
+    <div style="text-align: center;"><img src="VultureSystmsLogo.png" alt="Simulator"></div>
+    <div style="text-align: center;"><br>
+    </div>
+    <div style="text-align: center;"><br>
+    </div>
+    <div style="text-align: center;">
+      <table style="width: 100%;" border="0">
+        <tbody>
+          <tr>
+            <td style="width: 5%; background-color: white;"><br>
+            </td>
+            <td>
+              <table border="1">
+                <tbody>
+                  <tr>
+                    <td rowspan="1" colspan="9" style="width: 5%; background-color: #ff99ff; height: 42.5px;"><span
+                        style="font-family: Courier New,Courier,monospace;">Cyberdecks</span></td>
+                  </tr>
+                  <tr>
+                    <td rowspan="1" colspan="9"><br>
+                      <img src="cyberdeck.png" alt="cyberdeck"><br>
+                      <br>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td><span style="font-family: Courier New,Courier,monospace;">Name</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">MPCP</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">Memory<br>
+                        (stock/max)</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">Storage<br>
+                        (stock/max)</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">I/O
+                        Speed<br>
+                        (stock/max)</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">Hardening</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">Response<br>
+                        (stock/max)</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">Price</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">Shop</span></td>
+                  </tr>
+                  <tr>
+                    <td><span style="font-family: Courier New,Courier,monospace;">Allegiance
+                        Alpha</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">3</span></td>
+                    <td style="height: 20px;"><span style="font-family: Courier New,Courier,monospace;">30
+                        / 120</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">100
+                        / 250</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">10
+                        / 30</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">0</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">0
+                        / 3</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">¥1200</span></td>
+                    <td><img src="shopcart.png" alt="shopcart"><br>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td><span style="font-family: Courier New,Courier,monospace;">Cyber
+                        Shack PCD-500</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">4</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">50
+                        / 160</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">100
+                        / 325</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">20
+                        / 40</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">1</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">0
+                        / 3</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">¥5000</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;"></span><img
+                        src="shopcart.png" alt="shopcart"></td>
+                  </tr>
+                  <tr>
+                    <td><span style="font-family: Courier New,Courier,monospace;">Fuchi
+                        Cyber-5</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">6</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">100
+                        / 240</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">500
+                        / 500</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">20
+                        / 60</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">2</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">1
+                        / 3</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">¥25000</span></td>
+                    <td><img src="shopcart.png" alt="shopcart"></td>
+                  </tr>
+                  <tr>
+                    <td><span style="font-family: Courier New,Courier,monospace;">SEGA
+                        CTY-360 </span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">8</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">200
+                        / 320</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">500
+                        / 650</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">50
+                        / 80</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">3</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">1
+                        / 3</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">¥60000</span></td>
+                    <td><img src="shopcart.png" alt="shopcart"></td>
+                  </tr>
+                  <tr>
+                    <td><span style="font-family: Courier New,Courier,monospace;">Fuchi
+                        Cyber-7 </span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">10</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">300
+                        / 400</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">1000
+                        / 1000</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">50
+                        / 100</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">4</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">2
+                        / 3</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">¥125000</span></td>
+                    <td><img src="shopcart.png" alt="shopcart"></td>
+                  </tr>
+                  <tr>
+                    <td><span style="font-family: Courier New,Courier,monospace;">Fairlight
+                        Excalibur</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">12</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">500
+                        / 500</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">1000
+                        / 1000</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">100
+                        / 120</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">5</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">3
+                        / 3</span></td>
+                    <td><span style="font-family: Courier New,Courier,monospace;">¥250000</span></td>
+                    <td><img src="shopcart.png" alt="shopcart"></td>
+                  </tr>
+                </tbody>
+              </table>
+            </td>
+            <td style="width: 5%; background-color: white;"><br>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+    </div>
+    <div style="text-align: center;"><br>
+    </div>
+    <div style="text-align: center;"><br>
+    </div>
+    <div style="text-align: center;"><br>
+    </div>
+    <div style="text-align: center;"><br>
+    </div>
+    <div style="text-align: center;"><br>
+    </div>
+    <div style="text-align: center;"><br>
+    </div>
+    <p><span style="font-family: Courier New,Courier,monospace;"><br>
+      </span></p>
+    <p><span style="font-family: Courier New,Courier,monospace;"><br>
+      </span></p>
+    <p><span style="font-family: Courier New,Courier,monospace;"><br>
+      </span></p>
+    <p><span style="font-family: Courier New,Courier,monospace;"><br>
+      </span></p>
+    <p><span style="font-family: Courier New,Courier,monospace;"><br>
+      </span></p>
+    <p><span style="font-family: Courier New,Courier,monospace;"><br>
+      </span></p>
+    <p><span style="font-family: Courier New,Courier,monospace;"><br>
+      </span></p>
+    <p><span style="font-family: Courier New,Courier,monospace;"><br>
+      </span></p>
+    <p><span style="font-family: Courier New,Courier,monospace;"><br>
+      </span></p>
+    <p style="text-align: center;"><span style="font-family: Courier New,Courier,monospace;">©
+        Copyright 1997-2020 Vulture Systms</span></p>
+  </body>
+</html>
